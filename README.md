@@ -22,10 +22,15 @@ The columns in the dataset are as follows:
 |Name|Description|
 
 |Id| - Id of the instance or record.
+
 |SepalLengthCm| - Length of the sepal in cm.
+
 |SepalWidthCm| - Width of the sepal in cm.
+
 |PetalLengthCm| - Length of the petal in cm.
+
 |PetalWidthCm| - Width of the petal in cm.
+
 |Species| - Name of the type of the flower.
 
 **Dataset Credits:** https://archive.ics.uci.edu/ml/datasets/iris
