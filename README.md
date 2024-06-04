@@ -40,3 +40,9 @@ The columns in the dataset are as follows:
 **Citation:**
 ```
 Dua, D., & Graff, C.. (2017). UCI Machine Learning Repository.
+
+
+Contributions are welcome! If you have any improvements or new features you'd like to add, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License.
